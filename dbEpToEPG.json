@@ -1,0 +1,11 @@
+{
+  "uni/tn-CustomerA/ap-ANP/epg-App1": {
+    "portList": [
+      "topology/pod-1/node-101/sys/phys-[eth1/29]",
+      "topology/pod-1/node-101/sys/phys-[eth1/30]"
+    ],
+    "macList": ["00:0A:F7:1B:EC:32"],
+    "physDomain": "uni/phys-test",
+    "vlanId": 1200
+  }
+}
